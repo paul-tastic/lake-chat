@@ -1,6 +1,7 @@
 # lake-chat
 
-> A Vue.js project
+This is a baseline chat project using Vue, Firebase/Firestor, materialize CSS, and moment JS. The next version will incorporate user authentication and geolocating. 
+
 
 ## Build Setup
 
